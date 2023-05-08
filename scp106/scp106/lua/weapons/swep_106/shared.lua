@@ -4,8 +4,7 @@ SWEP.PrintName = "SCP-106"
 SWEP.Category = "SCP:RP | SWEPs"
 
 SWEP.Instructions = "LMB: Befördere den Spiele in die Pocket Dimension\nRMB: Erstelle Portale\n Reload: Öffne Menü"
-SWEP.Author = "Sintact | Max"
-SWEP.Contact = "via Discord"
+SWEP.Author = "Skittle"
 
 SWEP.Slot = 2
 SWEP.SlotPos = 0 
