@@ -1,6 +1,6 @@
 
 SWEP.PrintName = "SCP-939"
-SWEP.Author = "Skittle"
+SWEP.Author = "Motte"
 SWEP.Category = "SCP:RP | SWEPs"
 SWEP.Instructions = "LMB: um alles zu töten was in deinen Weg kommt!"
 SWEP.Slot = 2
